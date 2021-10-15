@@ -1,24 +1,16 @@
-# README
+# Private Events
+Created as part of [The Odin Project](https://www.theodinproject.com) curriculum.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+View on [Github](https://github.com/harmolipi/messenger).
 
-Things you may want to cover:
+### Functionality
 
-* Ruby version
+This is the [Messenger](https://github.com/TheOdinProject/curriculum/blob/main/rails_programming/mailers_advanced_topics/actioncable_lesson.md) project, where I make a interface using websockets through ActionCable that allows users to send and immediately display messages to each other.
 
-* System dependencies
+### Thoughts
 
-* Configuration
+This last unit, regarding ActionCable, definitely felt pretty complex and was difficult to wrap my head around. Putting it all together in this project helped though - especially when it came to the JS parts, which are a bit rusty for me. It eventually made sense though, and I think that if I need to use ActionCable in the future (hopefully I will - it seems like there's a lot you can do with it), I should be able to refer back to this project to remember what I need to do. Look forward to making more cool projects with this though!
 
-* Database creation
+God bless.
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+-Niko Birbilis
